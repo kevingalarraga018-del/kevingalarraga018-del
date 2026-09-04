@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola a todos 👋
 
-<!--
-**kevingalarraga018-del/kevingalarraga018-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Nombre: Kevin Galarraga
+- Profesión: Estudiante Nivel Terciario
+- Escuela: I.S.F.T. N°172 Alan Turning
+- Carrera: 2° año de Comunicación Multimedial 
+- Email: Kevin.galarraga018@gmail.com
+- Materia: Programación Web
 
-Here are some ideas to get you started:
+## Herramientas utilizadas 🛠️:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,cs,css)](https://skillicons.dev)
+
+## Proyectos de estudio 💻:
+
+- https://github.com/kevingalarraga018-del/Vortice-Urbano-.git
